@@ -1,15 +1,13 @@
-# homework20194354
-top, ps, jobs, kill 명령어 설명
-# 리눅스 명령어
+# homework 20194354 류병선
 
-이 저장소는 리눅스에서 자주 사용되는 명령어에 대한 정보를 제공합니다.
 
 ## 명령어 목록
 
-1. [top](#top-명령어)
-2. [ps](#ps-명령어)
-3. [jobs](#jobs-명령어)
-4. [kill](#kill-명령어)
+
+1. [top](https://terms.naver.com/entry.naver?docId=4125861&cid=59321&categoryId=59321 "top 명령어설명")
+2. [ps](https://terms.naver.com/entry.naver?docId=4125773&cid=59321&categoryId=59321 "ps 명령어설명")
+3. [jobs](https://terms.naver.com/entry.naver?docId=4125682&cid=59321&categoryId=59321 "jobs 명령어설명")
+4. [kill](https://terms.naver.com/entry.naver?docId=4125687&cid=59321&categoryId=59321 "kill 명령어설명")
 
 ## top 명령어
 
