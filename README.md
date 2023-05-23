@@ -1,7 +1,7 @@
 # homework 20194354 류병선
 
 
-## 명령어 목록
+### 명령어 목록
 
 
 1. [top](https://terms.naver.com/entry.naver?docId=4125861&cid=59321&categoryId=59321 "top 명령어설명")
@@ -37,15 +37,13 @@
 `kill` 명령어는 실행 중인 프로세스를 종료하는 데 사용됩니다.
 
 ![kill 명령어 실행 예시](https://postfiles.pstatic.net/MjAyMjA0MTFfMTMx/MDAxNjQ5NjYxNDIwNDMw.zWyMG7HEtmWIk2M0ghXpIaz7ixttnpWoS6VhB2x51Ksg.nSq7OTgHjN9nWn6-MxrydsGNY-sBSSMDskgRJGDzxF0g.JPEG.mcoding777/SE-d9c0a84d-1e3b-4a51-99e9-bfec65cc472a.jpg?type=w966)
-```shell
-kill [옵션] [프로세스ID]
 
-```
+
 | 명령어 | 설명 | 사용법 |
 |--------|------|--------|
 | top | 시스템의 실시간 프로세스 모니터링 도구로, CPU, 메모리 사용량, 프로세스 정보 등을 보여줍니다. | `top` |
 | ps | 현재 실행 중인 프로세스 정보를 보여주는 명령어입니다. | `ps` |
 | jobs | 현재 쉘에서 실행 중인 백그라운드 작업 목록을 보여줍니다. | `jobs` |
-| kill | 실행 중인 프로세스를 종료하는 명령어입니다. | `kill [옵션] [프로세스ID]` |
+| kill | 실행 중인 프로세스를 종료하는 명령어입니다. | `kill [옵션] [프로세스ID]` | 
 
 
